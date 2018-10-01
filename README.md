@@ -1,0 +1,2 @@
+# openmp
+openmp toy programs
